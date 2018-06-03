@@ -26,3 +26,9 @@ p{
   background-image: url(/Users/johngreene/Desktop/Projects/broadway/resources/images/the-flatiron-building.png);
   background-size: auto;
 }
+.subheader{
+  background-image: url(/Users/johngreene/Desktop/Projects/broadway/resources/images/the-flatiron-building.png);
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
