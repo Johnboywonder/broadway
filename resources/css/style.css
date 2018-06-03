@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  font-family: Helvetica;
+}
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.navigation a{
+  font-size: 18px;
+  color: white;
+}
+.Header{
+  background-image: url(/Users/johngreene/Desktop/Projects/broadway/resources/images/the-flatiron-building.png);
+  background-size: auto;
+}
